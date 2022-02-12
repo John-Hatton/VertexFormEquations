@@ -7,6 +7,17 @@ public class VertexFormEquations
     public static void main(String[] args)
     {
         // Write your code here
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter a, b, c: ");
+        String abc = input.nextLine();
+
+        // Convert string to int array
+
+        // do algebra
+
+        // print
+
     }
 }
 // END REVEL SUBMISSION
